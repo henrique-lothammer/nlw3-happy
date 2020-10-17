@@ -1,25 +1,27 @@
-## Table of contents
+![Happy](.github/happy.png)
+
+## :memo: Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [License](#license)
 
-## General info
+## :computer: General info
 A platform to facilitate the finding of orphanages by people who want to visit them. Made in the third Next Level Week promoted by Rocketseat.
 	
-## Technologies
+## :rocket: Technologies
 Project is created with:
-* ReactJS
-* NodeJS
-* React-Native
+* [ReactJS](https://reactjs.org/)
+* [NodeJS](https://nodejs.org/en/)
+* [React-Native](https://facebook.github.io/react-native/)
+* [Expo](https://expo.io/)
+* [Typescript](https://www.typescriptlang.org/)
 	
-## Setup
+## :triangular_ruler: Setup
 
 To run this project, install it locally using yarn:
 
 ```
-# Clone repository
-$ git clone https://github.com/henrique-lothammer/nlw3-happy
-
 # Enter on folder
 $ cd nlw03/backend
 
@@ -39,4 +41,5 @@ $ yarn install
 $ yarn start
 ```
 
-Enjoy!
+## :clipboard: License
+[Rocketseat](https://github.com/rocketseat-education/nlw-03-omnistack)
