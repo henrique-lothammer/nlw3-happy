@@ -42,4 +42,4 @@ $ yarn start
 ```
 
 ## :clipboard: License
-[Rocketseat](https://github.com/rocketseat-education/nlw-03-omnistack)
+[Rocketseat](https://github.com/rocketseat-education/nlw-03-omnistack/blob/master/LICENSE.md)
